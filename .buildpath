@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula01"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula02"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula03"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula04"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula05"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula06"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula07"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula08"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula09"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula10"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula11"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/Autoload"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/Controller"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/Lib/Db"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/Lib/View"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/Model"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/View/Layout"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/app/View/Usuarios"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_COMPLETO/public"/>
+	<buildpathentry kind="src" path="HandsOn/HandsOn Final/Aula12/MVC_simples"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab02 - Ajuste de Rotas/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab02 - Ajuste de Rotas/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab02 - Ajuste de Rotas/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab02 - Ajuste de Rotas/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab04 - Trabalhando com Strategy Pattern para o login/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab04 - Trabalhando com Strategy Pattern para o login/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab04 - Trabalhando com Strategy Pattern para o login/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab04 - Trabalhando com Strategy Pattern para o login/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab05 - Usando Exceptions/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab05 - Usando Exceptions/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab05 - Usando Exceptions/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab05 - Usando Exceptions/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab06 - Trabalhando com Singleton e Metodos Magicos/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab06 - Trabalhando com Singleton e Metodos Magicos/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab06 - Trabalhando com Singleton e Metodos Magicos/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab06 - Trabalhando com Singleton e Metodos Magicos/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab07 - Usando PDO e Prepared Statements/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab07 - Usando PDO e Prepared Statements/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab07 - Usando PDO e Prepared Statements/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab07 - Usando PDO e Prepared Statements/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab08 - Usando SPL com os dados do banco/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab08 - Usando SPL com os dados do banco/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab08 - Usando SPL com os dados do banco/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab08 - Usando SPL com os dados do banco/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab09 - Fazendo CRUD de Funcionalidades/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab09 - Fazendo CRUD de Funcionalidades/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab09 - Fazendo CRUD de Funcionalidades/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Lab09 - Fazendo CRUD de Funcionalidades/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Projeto Final/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Projeto Final/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Projeto Final/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter-ExtraSala/Projeto Final/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab2/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab3/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/lib/Db"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab4/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/lib/Db"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/lib/Mensagem"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/lib/View"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab5/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/lib/Db"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/lib/Mensagem"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/lib/View"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab6/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/config"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/lib/Db"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/lib/Mensagem"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/lib/View"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab7/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/Banners"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/Clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/FaleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/Funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/Funcionarios"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/app/Model/Servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/bootstrap"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/config"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/lib/Db"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/lib/Mensagem"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/lib/View"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/tests"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/vendor"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/clientes"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/faleConosco"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/funcionalidades"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/funcionario"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/home"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/admin/servicos"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/front/layout"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Lab8/views/front/site"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/application"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/library/Dexter"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/public"/>
+	<buildpathentry kind="src" path="ProjetoDexter/Projeto Final/tests"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
