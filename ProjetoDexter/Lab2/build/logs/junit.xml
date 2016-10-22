@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit_Tests" tests="1" assertions="1" failures="6" errors="0" time="0.000336">
+    <testsuite name="BannerTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/BannerTest.php" tests="1" assertions="1" failures="1" errors="0" time="0.000336">
+      <testcase name="testExisteFile" class="BannerTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/BannerTest.php" line="6" assertions="1" time="0.000336">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">BannerTest::testExisteFile
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/BannerTest.php:16
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="ClienteTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/ClienteTest.php" tests="0" assertions="0" failures="1" errors="0" time="0.000000"/>
+    <testsuite name="FaleConoscoTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/FaleConoscoTest.php" tests="0" assertions="0" failures="1" errors="0" time="0.000000"/>
+    <testsuite name="FuncionalidadesTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/FuncionalidadeTest.php" tests="0" assertions="0" failures="1" errors="0" time="0.000000"/>
+    <testsuite name="FuncionarioTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/FuncionarioTest.php" tests="0" assertions="0" failures="1" errors="0" time="0.000000"/>
+    <testsuite name="ServicoTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab2/tests/Lab2/ServicoTest.php" tests="0" assertions="0" failures="1" errors="0" time="0.000000"/>
+  </testsuite>
+</testsuites>

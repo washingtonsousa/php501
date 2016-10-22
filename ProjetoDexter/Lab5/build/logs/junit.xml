@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit_Tests" tests="3" assertions="1" failures="1" errors="2" time="0.000927">
+    <testsuite name="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php" tests="3" assertions="1" failures="1" errors="2" time="0.000927">
+      <testcase name="testExisteMetodoToString" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php" line="6" assertions="1" time="0.000412">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AbstractEntityTest::testExisteMetodoToString
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php:20
+</failure>
+        <system-out>
+ Method lib\Db\AbstractEntity::__toString() does not exist 
+</system-out>
+      </testcase>
+      <testcase name="testRetornoMetodoToStringComId" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php" line="23" assertions="0" time="0.000306">
+        <error type="PHPUnit_Framework_Error">AbstractEntityTest::testRetornoMetodoToStringComId
+Object of class app\Model\Clientes\Cliente could not be converted to string
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php:29
+</error>
+      </testcase>
+      <testcase name="testRetornoMetodoToStringSemId" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php" line="32" assertions="0" time="0.000209">
+        <error type="PHPUnit_Framework_Error">AbstractEntityTest::testRetornoMetodoToStringSemId
+Object of class app\Model\Clientes\Cliente could not be converted to string
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab5/tests/Lab5/AbstractEntityTest.php:36
+</error>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>

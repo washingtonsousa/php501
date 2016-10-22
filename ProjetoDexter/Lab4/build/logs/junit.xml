@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit_Tests" tests="6" assertions="4" failures="5" errors="2" time="0.001559">
+    <testsuite name="NamespaceTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/NamespaceTest.php" tests="2" assertions="0" failures="0" errors="2" time="0.000633">
+      <testcase name="testExisteNamespaceNasEntidades" class="NamespaceTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/NamespaceTest.php" line="14" assertions="0" time="0.000416">
+        <error type="PHPUnit_Framework_ExceptionWrapper">NamespaceTest::testExisteNamespaceNasEntidades
+ReflectionException: Class app\Model\Clientes\Cliente does not exist
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/NamespaceTest.php:36
+</error>
+      </testcase>
+      <testcase name="testNamespaceEntidadeCorreto" class="NamespaceTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/NamespaceTest.php" line="46" assertions="0" time="0.000217">
+        <error type="PHPUnit_Framework_ExceptionWrapper">NamespaceTest::testNamespaceEntidadeCorreto
+ReflectionException: Class app\Model\Clientes\Cliente does not exist
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/NamespaceTest.php:66
+</error>
+      </testcase>
+    </testsuite>
+    <testsuite name="TraitMensagemTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/TraitMensagemTest.php" tests="2" assertions="2" failures="2" errors="0" time="0.000467">
+      <testcase name="testExisteFileFrontController" class="TraitMensagemTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/TraitMensagemTest.php" line="9" assertions="1" time="0.000239">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">TraitMensagemTest::testExisteFileFrontController
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/TraitMensagemTest.php:20
+</failure>
+      </testcase>
+      <testcase name="testExisteMetodos" class="TraitMensagemTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/TraitMensagemTest.php" line="25" assertions="1" time="0.000228">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">TraitMensagemTest::testExisteMetodos
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/TraitMensagemTest.php:44
+</failure>
+        <system-out>
+ Class MensagemTrait does not exist
+</system-out>
+      </testcase>
+    </testsuite>
+    <testsuite name="ViewTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/ViewTest.php" tests="2" assertions="2" failures="3" errors="0" time="0.000459">
+      <testcase name="testExisteFileView" class="ViewTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/ViewTest.php" line="11" assertions="1" time="0.000220">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">ViewTest::testExisteFileView
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/ViewTest.php:21
+</failure>
+      </testcase>
+      <testcase name="testExisteMetodos" class="ViewTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/ViewTest.php" line="60" assertions="1" time="0.000239">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">ViewTest::testExisteMetodos
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/tests/Lab4/ViewTest.php:79
+</failure>
+        <system-out>
+ Class lib\View\View does not exist 
+
+ Class lib\View\View does not exist 
+
+ Class lib\View\View does not exist 
+</system-out>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>

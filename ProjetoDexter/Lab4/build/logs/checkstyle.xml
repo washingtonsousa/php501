@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="2.5.1">
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/FaleConosco/FaleConosco.php">
+ <error line="4" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="26" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="44" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="62" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="80" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="98" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/Funcionalidades/Funcionalidade.php">
+ <error line="3" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="32" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="41" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="59" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/Banners/Banner.php">
+ <error line="2" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="22" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="40" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="58" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/Servicos/Servico.php">
+ <error line="3" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="52" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="61" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="70" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="79" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/Funcionarios/Funcionario.php">
+ <error line="4" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="26" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="44" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="62" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="80" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+<file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab4/app/Model/Clientes/Cliente.php">
+ <error line="3" column="1" severity="error" message="Each class must be in a namespace of at least one level (a top-level vendor name)" source="PSR1.Classes.ClassDeclaration.MissingNamespace"/>
+ <error line="52" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="61" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="70" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+ <error line="79" column="15" severity="error" message="Whitespace found at end of line" source="Squiz.WhiteSpace.SuperfluousWhitespace.EndLine"/>
+</file>
+</checkstyle>
+

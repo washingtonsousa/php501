@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit_Tests" tests="2" assertions="2" failures="2" errors="0" time="0.000528">
+    <testsuite name="AutoLoadTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab7/tests/Lab7/AutoLoadTest.php" tests="2" assertions="2" failures="2" errors="0" time="0.000528">
+      <testcase name="testExisteFileAutoLoad" class="AutoLoadTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab7/tests/Lab7/AutoLoadTest.php" line="9" assertions="1" time="0.000320">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AutoLoadTest::testExisteFileAutoLoad
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab7/tests/Lab7/AutoLoadTest.php:20
+</failure>
+      </testcase>
+      <testcase name="testConsegueCarregarClasse" class="AutoLoadTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab7/tests/Lab7/AutoLoadTest.php" line="23" assertions="1" time="0.000208">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AutoLoadTest::testConsegueCarregarClasse
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab7/tests/Lab7/AutoLoadTest.php:27
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>

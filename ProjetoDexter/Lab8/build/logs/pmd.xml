@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="@project.version@" timestamp="2016-02-26T18:51:16-03:00">
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab8/app/Model/FaleConosco/FaleConosco.php">
+    <violation beginline="102" endline="102" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $ip. Configured minimum length is 3.
+    </violation>
+  </file>
+</pmd>

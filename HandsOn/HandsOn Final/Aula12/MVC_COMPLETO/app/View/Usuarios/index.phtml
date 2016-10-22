@@ -1,0 +1,11 @@
+<?php
+foreach ($dados as $usuario) {
+    echo '<hr>';
+    echo '<b>Id: </b>' . $usuario['id'];
+    echo '<br><b>Nome: </b>' . $usuario['nome'];
+    echo '<br><b>Email: </b>' . $usuario['email'];
+    echo '<br><b>Senha: </b>' . $usuario['senha'];
+    echo '<br> <a href="?rota=usuarios/alterar/' . $usuario['id'] . '">Alterar</a> 
+             | <a href="?rota=usuarios/excluir/' . $usuario['id'] . '">Exlcuir</a><br>';
+    echo '<hr>';
+}

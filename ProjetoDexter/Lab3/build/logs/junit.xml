@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Unit_Tests" tests="5" assertions="4" failures="4" errors="1" time="0.001671">
+    <testsuite name="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php" tests="4" assertions="3" failures="3" errors="1" time="0.001441">
+      <testcase name="testExisteFileAbstractEntity" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php" line="6" assertions="1" time="0.000351">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AbstractEntityTest::testExisteFileAbstractEntity
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php:19
+</failure>
+      </testcase>
+      <testcase name="testExisteMetodoGetId" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php" line="46" assertions="1" time="0.000263">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AbstractEntityTest::testExisteMetodoGetId
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php:57
+</failure>
+        <system-out>
+ Class AbstractEntity does not exist 
+</system-out>
+      </testcase>
+      <testcase name="testAbstractEntityImplementaInterfaceIdentity" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php" line="60" assertions="0" time="0.000209">
+        <error type="PHPUnit_Framework_ExceptionWrapper">AbstractEntityTest::testAbstractEntityImplementaInterfaceIdentity
+ReflectionException: Class AbstractEntity does not exist
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php:62
+</error>
+      </testcase>
+      <testcase name="testeEntidadesExtendsAbstractEntity" class="AbstractEntityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php" line="67" assertions="1" time="0.000618">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">AbstractEntityTest::testeEntidadesExtendsAbstractEntity
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/AbstractEntityTest.php:95
+</failure>
+      </testcase>
+    </testsuite>
+    <testsuite name="InterfaceIdentityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/InterfaceIdentityTest.php" tests="1" assertions="1" failures="1" errors="0" time="0.000230">
+      <testcase name="testExisteInterfaceIdentity" class="InterfaceIdentityTest" file="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/InterfaceIdentityTest.php" line="6" assertions="1" time="0.000230">
+        <failure type="PHPUnit_Framework_ExpectationFailedException">InterfaceIdentityTest::testExisteInterfaceIdentity
+Failed asserting that false is true.
+
+/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/tests/Lab3/InterfaceIdentityTest.php:16
+</failure>
+      </testcase>
+    </testsuite>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,54 @@
+<header class="header">
+    <style type="text/css">
+        textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+            padding: 10px;
+            height: auto;
+        }
+    </style>
+</header>
+<div class="container">
+    <form action="admin.php?r=funcionario/editar" method="POST" class="form-horizontal">
+
+        <input type="hidden" name="id" value="1">
+
+        <fieldset>
+
+            <!-- Form Name -->
+            <legend>Editar Funcionário</legend>
+
+            <div class="control-group">
+                <label class="control-label">Nome:</label>
+
+                <div class="controls">
+                    <input name="nome" value="@todo" class="input-xlarge" type="text">
+                </div>
+            </div>
+
+
+            <div class="control-group">
+                <label class="control-label">E-mail:</label>
+
+                <div class="controls">
+                    <input name="email" value="@todo" class="input-xlarge" type="text">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label">Senha:</label>
+
+                <div class="controls">
+                    <input name="senha" class="input-xlarge" type="password">
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label class="control-label"></label>
+
+                <div class="controls">
+                    <button class="btn btn-primary">Salvar</button>
+                </div>
+            </div>
+
+        </fieldset>
+    </form>
+</div>

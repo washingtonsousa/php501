@@ -1,0 +1,73 @@
+<header class="header">
+    <style type="text/css">
+        textarea,
+        input[type="text"],
+        input[type="password"],
+        input[type="datetime"],
+        input[type="datetime-local"],
+        input[type="date"],
+        input[type="month"],
+        input[type="time"],
+        input[type="week"],
+        input[type="number"],
+        input[type="email"],
+        input[type="url"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="color"],
+        .uneditable-input {
+            padding: 10px;
+            height: auto;
+        }
+    </style>
+</header>
+
+<div class="container content">
+
+    <div class="title center">
+        <h1>Fale conosco</h1>
+    </div>
+
+    <!-- <div class="banner-fixed">
+            <img src="http://lorempixel.com/940/300" alt="Banner Sobre">
+        </div> -->
+
+    <iframe class="map" width="940" height="350" frameborder="0"
+            scrolling="no" marginheight="0" marginwidth="0"
+            src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=4Linux+-+Rua+Vergueiro,+Vila+Mariana,+S%C3%A3o+Paulo&amp;aq=0&amp;oq=4linux+rua&amp;sll=-23.65333,-46.595764&amp;sspn=0.906957,1.454315&amp;ie=UTF8&amp;hq=4Linux+-&amp;hnear=Rua+Vergueiro,+S%C3%A3o+Paulo&amp;t=m&amp;ll=-23.587469,-46.633487&amp;spn=0.013765,0.04034&amp;z=15&amp;output=embed">
+    </iframe>
+
+    <!-- adicionado para exibir mensagens -->
+    <?php if ( isset( $_SESSION[ 'mensagem' ][ 'valor' ] ) ): ?>
+        <div class="alert alert-<?= isset( $_SESSION[ 'mensagem' ][ 'tipo' ] ) ? $_SESSION[ 'mensagem' ][ 'tipo' ] : '' ?>">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+            <?php echo isset( $_SESSION[ 'mensagem' ][ 'valor' ] ) ? $_SESSION[ 'mensagem' ][ 'valor' ] : '' ?>
+        </div>
+    <?php endif; ?>
+
+    <form action="index.php?r=site/contato" method="post" class="form">
+        <p>
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" placeholder="Nome" required>
+        </p>
+
+        <p>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="seu@email.com" required>
+        </p>
+
+        <p>
+            <label for="assunto">Assunto</label>
+            <input type="text" name="assunto" id="assunto" placeholder="Assunto" required>
+        </p>
+
+        <p>
+            <label for="msg">Mensagem</label>
+				<textarea name="mensagem" id="mensagem" rows="5" placeholder="Sua mensagem..." required></textarea>
+        </p>
+
+        <p>
+            <button class="btn">Enviar</button>
+        </p>
+    </form>
+</div>

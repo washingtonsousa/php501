@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "DexterApp\\": "application/",
+            "Dexter\\": "library/Dexter/",
+            "DexterTests\\": "tests/unit/library/Dexter/",
+            "DexterAppTests\\": "tests/unit/application/"
+        }
+    }
+}

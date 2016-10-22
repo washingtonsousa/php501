@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="@project.version@" timestamp="2016-02-26T18:17:47-03:00">
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/Banners/Banner.php">
+    <violation beginline="5" endline="5" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="80" endline="80" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/Clientes/Cliente.php">
+    <violation beginline="6" endline="6" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="65" endline="65" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/FaleConosco/FaleConosco.php">
+    <violation beginline="7" endline="7" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="102" endline="102" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $ip. Configured minimum length is 3.
+    </violation>
+    <violation beginline="120" endline="120" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/Funcionalidades/Funcionalidade.php">
+    <violation beginline="6" endline="6" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="81" endline="81" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/Funcionarios/Funcionario.php">
+    <violation beginline="7" endline="7" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="102" endline="102" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+  <file name="/home/denis/Documents/projetos/4linux/Projetos_Dexter/Laboratorios/Lab3/app/Model/Servicos/Servico.php">
+    <violation beginline="6" endline="6" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+    <violation beginline="101" endline="101" rule="ShortVariable" ruleset="Naming Rules" externalInfoUrl="http://phpmd.org/rules/naming.html#shortvariable" priority="3">
+      Avoid variables with short names like $id. Configured minimum length is 3.
+    </violation>
+  </file>
+</pmd>
